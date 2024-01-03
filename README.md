@@ -29,7 +29,7 @@ Current knowledge representation often relies on two powerful tools: ontologies 
 * DOI- 10.9734/ajrcos/2023/v16i4394
 
 
-# 🏁 Result
+## 🏁 Result
 
 
 ## 💽prerequisites to understand the approach
@@ -43,15 +43,15 @@ Current knowledge representation often relies on two powerful tools: ontologies 
 
 
 
-# 🖋️ insights
+## 🖋️ insights
 
 
-# 🛣️ Roadmap of the project
+## 🛣️ Roadmap of the project
 
 
-# 🔜 future ugrades
+## 🔜 future ugrades
 
-# 👥credits and contact info:-
+## 👥credits and contact info:-
 
 * 🧑‍🏫 ***Krishna Kumar Tiwari***
 * email: krishna.tiwari@ril.com

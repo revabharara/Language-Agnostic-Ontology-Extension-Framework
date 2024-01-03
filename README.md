@@ -1,4 +1,3 @@
-# Language-Agnostic-Ontology-Extension-Framework
 # 🕹️ Language Agnostic Ontology Extension Framework
 
 🌐 **Synergizing Ontologies and Knowledge Graphs:**

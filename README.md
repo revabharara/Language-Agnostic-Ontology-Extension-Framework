@@ -70,6 +70,7 @@ Traditional ontologies offer a sturdy blueprint, but they're manual, domain-spec
 ## 🛣️ Roadmap of the project
 
 ***Flow Diagram of the project***
+
 <img width="542" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/547e5ad9-aada-4e43-acd7-11dc29ffe6b6">
 
 ## 🔜 Future Upgrades

@@ -61,16 +61,23 @@ Traditional ontologies offer a sturdy blueprint, but they're manual, domain-spec
 
 ### 📚 About the dataset
 
-
-## 🖋️ insights
-
+| **Text Corpus Collection** | **Details** |
+|---------------------------|-------------|
+| Number of Corpora         | 50          |
+| Content                   | Fictitious individuals and companies, randomly generated, including names, occupations, personality traits, and more. |
+| Format                    | Raw text, representing unstructured data. Processed using natural language processing techniques to extract crucial and meaningful information. |
 
 ## 🛣️ Roadmap of the project
 
+***Flow Diagram of the project***
+<img width="542" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/547e5ad9-aada-4e43-acd7-11dc29ffe6b6">
 
-## 🔜 future ugrades
+## 🔜 Future Upgrades
+* Analyzing complex sentences, richer vocabulary, and diverse relationships. Models trained on massive text corpora for comprehensive understanding.
+* Ensure precision with sentence filtering, error control, and thresholding mechanisms. Reference ontologies and knowledge graphs aid in data cleaning.
+* Automatic generation of accurate, domain-independent ontologies for versatile and precise knowledge representation.
 
-## 👥credits and contact info:-
+## 👥Credits and Contact info:-
 
 * 🧑‍🏫 ***Krishna Kumar Tiwari***
 * email: krishna.tiwari@ril.com

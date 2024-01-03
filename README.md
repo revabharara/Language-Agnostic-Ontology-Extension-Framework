@@ -32,21 +32,26 @@ Traditional ontologies offer a sturdy blueprint, but they're manual, domain-spec
 
 # 🏁 Result
 * ***Knowledge Graphs Created from raw text data***
-  <img width="200" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/2e196c96-ad81-49c4-b075-6eb75f9fcd28">
-  <img width="200" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/50b92361-5fe2-47af-bd91-43600fdd738c">
+  
+  <img width="350" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/2e196c96-ad81-49c4-b075-6eb75f9fcd28">
+  <img width="350" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/50b92361-5fe2-47af-bd91-43600fdd738c">
 
 * ***Ontologies created by generalizing these knowledge graphs***
-  <img width="200" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/dfb5625a-3f12-4191-b7f9-b88fadaa03b1">
-  <img width="200" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/9b8f954c-38ae-4af2-a4bf-8ce526303c46">
+  
+  <img width="350" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/dfb5625a-3f12-4191-b7f9-b88fadaa03b1">
+  <img width="350" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/9b8f954c-38ae-4af2-a4bf-8ce526303c46">
 
 * ***Mathematical (ID-based) Language Agnostic representation of Ontologies***
-  <img width="421" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/ce8912c5-a726-40f3-950c-281eada683f6">
+  
+  <img width="600" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/ce8912c5-a726-40f3-950c-281eada683f6">
 
 * ***Updated ontology with sample text 1 (existing ontology) and sample text 2 (new ontology)***
-  <img width="262" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/14133cbd-e925-44a6-ad79-a248312d34a5">
+  
+  <img width="600" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/14133cbd-e925-44a6-ad79-a248312d34a5">
 
 * ***Ontologies translated into different Languages***
-  <img width="575" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/dbcc336e-a17d-4f10-afe3-881559334d9a">
+  
+  <img width="600" alt="image" src="https://github.com/revabharara/Language-Agnostic-Ontology-Extension-Framework/assets/89579327/dbcc336e-a17d-4f10-afe3-881559334d9a">
 
 ## 💽prerequisites to understand the approach
 #### 💡 What are knowledge graphs and how to build them? 

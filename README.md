@@ -86,7 +86,7 @@ Traditional ontologies offer a sturdy blueprint, but they're manual, domain-spec
 * 👩 ***Reva Bharara***
 * email: bhararareva@gmail.com, revabharara@gmail.com
 * LinkedIn : https://www.linkedin.com/in/reva-bharara-a83a78241/
-* 👨***Aryan Rathore***
+* 👨***Aryan Rathore.***
 * LinkedIn : https://www.linkedin.com/in/aryan-rathore-b15459215/
 * email: aryanrathore13572002@gmail.com, aryan.rathore2021@vitbhopal.ac.in
 
